@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "40351493650",
+    "project_id": "swasthin-user",
+    "storage_bucket": "swasthin-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40351493650:android:9dda6eabfc5b3be91832cb",
+        "android_client_info": {
+          "package_name": "com.swasthinuser.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40351493650-at2bbnjmllo6psdi687que9i252of3du.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swasthinuser.app",
+            "certificate_hash": "87acfb8ba7dfb27f2502b652d494d490fbd804df"
+          }
+        },
+        {
+          "client_id": "40351493650-s2rel50afoaqmbj1sp2um85tj4c8l19m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKSsMCkhoip9K4bkUY2-UTjNuia1tYJXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40351493650-s2rel50afoaqmbj1sp2um85tj4c8l19m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
